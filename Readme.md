@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/1a495447-e4a5-4f4f-9824-1feb0643c067)
+
+
 # Glacier Node Kurulum : 
 
 ## Gereksinimler : 
@@ -9,6 +12,15 @@ Minimum :
 Tavsiye Edilen : 
 
 - 2+ CPU ( Hızlı ) / 4+ GB RAM / 8+ MBit/sec İndirme Hızı 
+
+## Kayıt Ve Görevler : 
+
+![image](https://github.com/user-attachments/assets/312b79b9-5e6f-4c9f-93a5-6fb63f491235)
+
+
+- Kayıt : https://www.glacier.io/points/?inviter=0x44154Bc0a4d48B47b53DadCcF92923af9644E288
+
+- Galxe Görevleri bulunuyor - görevleri yapmayı unutmayın - 3. kısımdan cüzdan bağlayıp arkadaşlarınızı davet edebilirsiniz.
 
 ## Testnet Tokenleri : 
 
