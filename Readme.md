@@ -28,6 +28,14 @@ Tavsiye Edilen :
 
 - Bridge : https://opbnb-testnet-bridge.bnbchain.org/deposit
 
+- Eğer Faucet için yeterli BNB'niz yoksa Discordlarından Alabilirsiniz : 
+
+- Discord : https://discord.gg/bnbchain
+- Faucet Kanalı : https://discord.com/channels/789402563035660308/1099937267021250560
+- /Faucet yazın yukarıda butonlar çıkacak siyah alana cüzdan adresini yapıştırıp yollayın. 0.3 Testnet BNB yollayacak onu bridgeleyin.
+![image](https://github.com/user-attachments/assets/45eaaf67-ae5c-44ea-85f0-c2af03f82138)
+![image](https://github.com/user-attachments/assets/17668f8a-5ff2-455d-8955-570d37563c46)
+
 
 Sistem paketlerini güncellemek ve yükseltmek için aşağıdaki komutu çalıştırın:
 
