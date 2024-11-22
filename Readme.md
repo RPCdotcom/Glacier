@@ -65,7 +65,9 @@ sudo groupadd docker
 sudo usermod -aG docker $USER
 ```
 
-## Node'u Başlatalım : 
+## Node'u Başlatalım :
+
+- Metamask_Private_Keyin kısmında cüzdanınızın private keyini yazın. 
 
 ```bash
 docker run -d -e PRIVATE_KEY=Metamask_Private_Keyin --name glacier-verifier docker.io/glaciernetwork/glacier-verifier:v0.0.1
